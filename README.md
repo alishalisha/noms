@@ -1,6 +1,8 @@
 # noms
 Delicious recipes for nomming on. Created by @alishalisha.
 
+![](http://i.imgur.com/fG5uAzD.png)
+
 ## Recipes to be added
 * Double broccoli quinoa
 * Creamy mushroom leek pasta
