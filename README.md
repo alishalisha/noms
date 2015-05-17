@@ -16,6 +16,9 @@ Delicious recipes for nomming on. Created by @alishalisha.
 * Chili-roasted tofu with pomegranate
 * Watermelon feta salad
 * Baked salmon with cherry tomatoes
+* Sun-dried tomato pasta with chicken
+* Vietnamese spring rolls with shrimp
+* Easy chicken caesar salad
 
 _Note: I may have a thing for pomegranate?_
 
