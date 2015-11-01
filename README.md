@@ -19,6 +19,7 @@ Delicious recipes for nomming on. Created by @alishalisha.
 * Sun-dried tomato pasta with chicken
 * Vietnamese spring rolls with shrimp
 * Easy chicken caesar salad
+* Sriracha maple sesame chicken with greens
 
 _Note: I may have a thing for pomegranate?_
 
